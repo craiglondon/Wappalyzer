@@ -2501,7 +2501,7 @@
 			"cats": [
 				6
 			],
-			"html": "<div class='dynamicDiv' id='dd\\.\\d\\.\\d'>",
+			"html": "<((link)|script)\b[^>]*?\b((href|src))\s*=\s*(?:"((?:\/wcsstore\/"|[^"])*)"|'((?:\/wcsstore\/.+'|[^'])*)')",
 			"implies": "Java",
 			"url": "/wcs/",
 			"website": "ibm.com/software/genservers/commerceproductline"
