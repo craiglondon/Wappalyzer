@@ -2501,6 +2501,7 @@
 			"cats": [
 				6
 			],
+			"html": "<div class='dynamicDiv' id='dd\\.\\d\\.\\d'>",
 			"implies": "Java",
 			"url": "/wcs/",
 			"website": "ibm.com/software/genservers/commerceproductline"
@@ -3398,7 +3399,7 @@
 				12
 			],
     			"implies": [
-    			      "MongoDB",	
+    			      "MongoDB",
 			      "Express",
 			      "AngularJS",
 			      "node.js"
