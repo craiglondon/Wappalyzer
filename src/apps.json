@@ -440,7 +440,8 @@
 				31
 			],
 			"headers": {
-				"X-Amz-Cf-Id": ""
+				"X-Amz-Cf-Id": "",
+				"X-Cache": "Miss from cloudfront"
 			},
 			"icon": "Amazon-Cloudfront.svg",
 			"website": "aws.amazon.com/cloudfront/"
