@@ -2056,6 +2056,10 @@
 			"cats": [
 				10
 			],
+			"headers": {
+				"dynaTrace": "",
+				"X-dynaTrace": ""
+			},
 			"icon": "Dynatrace.png",
 			"script": "dtagent.*\\.js",
 			"website": "dynatrace.com"
