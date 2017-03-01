@@ -9211,7 +9211,8 @@
 			"script": [
 				"jquery-ui(?:-|\\.)([\\d.]*\\d)[^/]*\\.js\\;version:\\1",
 				"([\\d.]+)/jquery-ui(?:\\.min)?\\.js\\;version:\\1",
-				"jquery-ui.*\\.js"
+				"jquery-ui.*\\.js",
+				"\/jquery\/ui\/"
 			],
 			"website": "jqueryui.com"
 		},
