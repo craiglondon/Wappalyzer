@@ -11257,6 +11257,7 @@
       "implies": [
         "PHP"
       ],
+      "script": "\/yii.*\\.js",
       "website": "http://yiiframework.com"
     },
     "Yoast SEO": {
