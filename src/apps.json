@@ -11260,7 +11260,10 @@
       "implies": [
         "PHP"
       ],
-      "script": "\/yii.*\\.js",
+      "script": [
+        "\/assets\/[a-zA-Z0-9]{8}\/yii\\.*\\.js",
+        "\/assets\/[a-zA-Z0-9]{8}\/yii\\.(?:validation|activeForm)\\.js"
+      ],
       "website": "https://www.yiiframework.com"
     },
     "Yoast SEO": {
